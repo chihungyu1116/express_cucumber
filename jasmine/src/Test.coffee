@@ -1,4 +1,4 @@
-window.helloWorld = () ->
+window.helloWorld = ->
 	"Hello world!"
 
 window.disemvowel = (str) ->
