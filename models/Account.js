@@ -4,6 +4,7 @@ module.exports = function( config, mongoose, Status, nodemailer) {
 				DIGEST: "hex"
 			};
 
+
 	var crypto = require('crypto');
 
 	var Status = new mongoose.Schema({
